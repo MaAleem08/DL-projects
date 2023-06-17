@@ -1,0 +1,2 @@
+we have a dataset having news from various sources , in which some are eclassified as genuine and some as false news . 
+you have to create a model which can detect tree and false news . 
