@@ -1,2 +1,5 @@
-we have a dataset having news from various sources , in which some are eclassified as genuine and some as false news . 
-you have to create a model which can detect tree and false news . 
+We will be using ECG dataset throughout this article. ECG stands for Electrocardiogram.
+It checks how your heart is functioning by measuring the electrical activities of your heart. 
+An electrical pulse travels through the heart in each heartbeat, creating muscles to squeeze and pump blood to the heart. 
+It carries the electrical impulse that helps the doctor know if the heart is pumping normally or strange. 
+So we will take this dataset and build an anomaly detector using Autoencoder.
